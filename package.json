@@ -1,0 +1,19 @@
+{
+  "name": "14-snowpack-template",
+  "version": "1.0.0",
+  "description": "my-first-snowpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin Webster",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.0.13"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.4.0"
+  }
+}
